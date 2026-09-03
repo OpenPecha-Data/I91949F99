@@ -1,0 +1,10 @@
+id: 93875c7d5a0a4bd1b4ccb01caf2d6d46
+annotation_type: BookNumber
+revision: '00001'
+annotations:
+  b264c154fb4e4a0f92b38890877bdc4e:
+    span:
+      start: 53
+      end: 70
+local_ids:
+  b264c154fb4e4a0f92b38890877bdc4e: 200000

@@ -1,0 +1,24 @@
+id: I91949F99
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-KK-15
+  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  author: ''
+  authors: &id001 []
+  sku: RDI-KK-15
+  cover: RDI-KK-15.jpeg
+  volume: {}
+ebook_metadata:
+  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  authors: *id001
+  sku: RDI-KK-15
+  cover: RDI-KK-15.jpeg
+layers:
+- BookNumber
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
+- Yigchung
