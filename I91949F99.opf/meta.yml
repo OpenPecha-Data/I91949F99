@@ -3,11 +3,13 @@ initial_creation_type: ebook
 source_metadata:
   id: RDI-KK-15
   title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
-  author: ''
-  authors: &id001 []
+  author: དྭགས་པོ་བཀྲ་ཤིས་རྣམ་རྒྱལ།
+  authors: &id001
+  - དྭགས་པོ་བཀྲ་ཤིས་རྣམ་རྒྱལ།
   sku: RDI-KK-15
   cover: RDI-KK-15.jpeg
   volume: {}
+  author_source: epub:dc:creator
 ebook_metadata:
   title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
   authors: *id001
