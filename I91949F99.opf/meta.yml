@@ -2,16 +2,17 @@ id: I91949F99
 initial_creation_type: ebook
 source_metadata:
   id: RDI-KK-15
-  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  title: སྔགས་ཀྱི་སྤྱི་དོན་ནོར་བུའི་འོད་ཟེར།
   author: དྭགས་པོ་བཀྲ་ཤིས་རྣམ་རྒྱལ།
   authors: &id001
   - དྭགས་པོ་བཀྲ་ཤིས་རྣམ་རྒྱལ།
   sku: RDI-KK-15
   cover: RDI-KK-15.jpeg
   volume: {}
+  title_source: epub:dc:title:ambiguous-layer
   author_source: epub:dc:creator
 ebook_metadata:
-  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  title: སྔགས་ཀྱི་སྤྱི་དོན་ནོར་བུའི་འོད་ཟེར།
   authors: *id001
   sku: RDI-KK-15
   cover: RDI-KK-15.jpeg
