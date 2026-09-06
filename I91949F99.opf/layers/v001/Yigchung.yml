@@ -1,10 +1,10 @@
-id: b67bf322b2a14f7a8bdd24824f4c5d31
+id: f404874255cd45519f6da71025a8a4d9
 annotation_type: Yigchung
 revision: '00001'
 annotations:
-  d7b73d1d03f140cb9fbb113ceb6c4815:
+  04bcc83052a647b9bba47512fef40344:
     span:
       start: 255982
       end: 256135
 local_ids:
-  d7b73d1d03f140cb9fbb113ceb6c4815: 200000
+  04bcc83052a647b9bba47512fef40344: 200000
